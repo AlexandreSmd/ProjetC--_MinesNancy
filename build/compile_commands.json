@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/alexandre_smd/ProjetC/build",
+  "command": "/usr/bin/g++  -I/home/alexandre_smd/ProjetC/src -g -o CMakeFiles/pbd_simulation.dir/src/pbd/Context.cpp.o -c /home/alexandre_smd/ProjetC/src/pbd/Context.cpp",
+  "file": "/home/alexandre_smd/ProjetC/src/pbd/Context.cpp"
+},
+{
+  "directory": "/home/alexandre_smd/ProjetC/build",
+  "command": "/usr/bin/g++  -I/home/alexandre_smd/ProjetC/src -g -o CMakeFiles/pbd_simulation.dir/src/pbd/Particle.cpp.o -c /home/alexandre_smd/ProjetC/src/pbd/Particle.cpp",
+  "file": "/home/alexandre_smd/ProjetC/src/pbd/Particle.cpp"
+},
+{
+  "directory": "/home/alexandre_smd/ProjetC/build",
+  "command": "/usr/bin/g++  -I/home/alexandre_smd/ProjetC/src -g -o CMakeFiles/pbd_simulation.dir/src/pbd/Vec2.cpp.o -c /home/alexandre_smd/ProjetC/src/pbd/Vec2.cpp",
+  "file": "/home/alexandre_smd/ProjetC/src/pbd/Vec2.cpp"
+},
+{
+  "directory": "/home/alexandre_smd/ProjetC/build",
+  "command": "/usr/bin/g++  -I/home/alexandre_smd/ProjetC/src -g -o CMakeFiles/pbd_test.dir/src/main.cpp.o -c /home/alexandre_smd/ProjetC/src/main.cpp",
+  "file": "/home/alexandre_smd/ProjetC/src/main.cpp"
+},
+{
+  "directory": "/home/alexandre_smd/ProjetC/build",
+  "command": "/usr/bin/g++ -Dpy_pbd_simulation_EXPORTS -I/home/alexandre_smd/ProjetC/src -isystem /usr/include/python3.10 -isystem /home/alexandre_smd/ProjetC/ext/pybind11/include -g -fPIC -fvisibility=hidden -o CMakeFiles/py_pbd_simulation.dir/src/py_binding.cpp.o -c /home/alexandre_smd/ProjetC/src/py_binding.cpp",
+  "file": "/home/alexandre_smd/ProjetC/src/py_binding.cpp"
+}
+]
